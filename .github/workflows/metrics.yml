@@ -2,36 +2,77 @@ name: GitHub Metrics
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-
-    permissions:
-      contents: write
 
     steps:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: TechyCyb3r
+          filename: github-metrics.svg
 
           template: classic
+
           base: header, activity, community, repositories, metadata
 
           config_timezone: Asia/Kolkata
 
+          # ==========================
+          # Languages
+          # ==========================
           plugin_languages: yes
           plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_colors: github
 
+          # ==========================
+          # Contribution Calendar
+          # ==========================
           plugin_isocalendar: yes
 
-          plugin_followup: yes
+          # ==========================
+          # Coding Habits
+          # ==========================
+          plugin_habits: yes
+          plugin_habits_days: 30
+          plugin_habits_facts: yes
 
+          # ==========================
+          # Repository Highlights
+          # ==========================
+          plugin_repositories: yes
+          plugin_repositories_featured: TechyCyb3r/securefin,TechyCyb3r/stock-screener,TechyCyb3r/iNoteX
+
+          # ==========================
+          # Topics
+          # ==========================
+          plugin_topics: yes
+          plugin_topics_limit: 18
+
+          # ==========================
+          # Stars
+          # ==========================
           plugin_stars: yes
 
-          plugin_achievements: no
+          # ==========================
+          # Follow-up
+          # ==========================
+          plugin_followup: yes
 
-          filename: github-metrics.svg
+          # ==========================
+          # Lines of Code
+          # ==========================
+          plugin_lines: yes
+
+          # ==========================
+          # Achievements Disabled
+          # ==========================
+          plugin_achievements: no

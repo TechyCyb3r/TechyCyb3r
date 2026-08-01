@@ -102,7 +102,7 @@ const himanshu = {
 - Express.js — ███████████████░░░░░ 80%
 - MongoDB — ████████████████░░░░ 82%
 - REST APIs — █████████████████░░░ 86%
-- Git & GitHub — █████████████████��█░ 95%
+- Git & GitHub — ███████████████████░ 95%
 
 </td>
 </tr>
@@ -283,7 +283,7 @@ I can turn any idea into a premium full stack experience with a strong UI, clean
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=TechyCyb3r&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/wakatime?username=TechyCyb3r&theme=tokyonight&hide_border=true&layout=compact"/>
 </p>
 
 ---
@@ -291,11 +291,11 @@ I can turn any idea into a premium full stack experience with a strong UI, clean
 ## 🏆 Achievements & Activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TechyCyb3r&theme=tokyonight&no-frame=true&row=2&column=4"/>
+  <img height="170" src="https://github-profile-trophy.vercel.app/?username=TechyCyb3r&theme=tokyonight&no-frame=true&row=2&column=4"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TechyCyb3r&theme=tokyo-night&hide_border=true&area=true&line=7C3AED&point=38BDF8"/>
+  <img height="200" src="https://github-readme-activity-graph.vercel.app/graph?username=TechyCyb3r&theme=tokyo-night&hide_border=true&area=true&line=7C3AED&point=38BDF8"/>
 </p>
 
 ---

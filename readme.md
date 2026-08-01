@@ -278,12 +278,12 @@ I can turn any idea into a premium full stack experience with a strong UI, clean
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TechyCyb3r&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechyCyb3r&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TechyCyb3r&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechyCyb3r&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/wakatime?username=TechyCyb3r&theme=tokyonight&hide_border=true&layout=compact"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TechyCyb3r&theme=tokyo-night&hide_border=true&area=true&line=7C3AED&point=38BDF8" alt="Contribution Graph" />
 </p>
 
 ---
@@ -291,11 +291,7 @@ I can turn any idea into a premium full stack experience with a strong UI, clean
 ## 🏆 Achievements & Activity
 
 <p align="center">
-  <img height="170" src="https://github-profile-trophy.vercel.app/?username=TechyCyb3r&theme=tokyonight&no-frame=true&row=2&column=4"/>
-</p>
-
-<p align="center">
-  <img height="200" src="https://github-readme-activity-graph.vercel.app/graph?username=TechyCyb3r&theme=tokyo-night&hide_border=true&area=true&line=7C3AED&point=38BDF8"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=TechyCyb3r&theme=tokyonight&no-frame=true&row=2&column=4"/>
 </p>
 
 ---

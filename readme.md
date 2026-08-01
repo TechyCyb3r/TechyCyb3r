@@ -137,7 +137,7 @@ A modern finance dashboard with a premium UI, authentication flow, responsive la
 <a href="https://github.com/TechyCyb3r/securefin">
 <img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github"/>
 </a>
-<a href="https://github.com/TechyCyb3r/securefin">
+<a href="https://securefin.thehimanshu.tech">
 <img src="https://img.shields.io/badge/Explore_Code-7C3AED?style=for-the-badge"/>
 </a>
 </p>
@@ -162,7 +162,7 @@ A stock discovery platform built for fast filtering, searching, and a clean anal
 <a href="https://github.com/TechyCyb3r/stock-screener">
 <img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github"/>
 </a>
-<a href="https://github.com/TechyCyb3r/stock-screener">
+<a href="https://stockscreener.thehimanshu.tech">
 <img src="https://img.shields.io/badge/See_Live_Style-06B6D4?style=for-the-badge"/>
 </a>
 </p>
@@ -189,9 +189,6 @@ A full stack workflow application for passport management with clean UX and esse
 <a href="https://github.com/TechyCyb3r/passportMgt">
 <img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github"/>
 </a>
-<a href="https://github.com/TechyCyb3r/passportMgt">
-<img src="https://img.shields.io/badge/Read_Implementation-14B8A6?style=for-the-badge"/>
-</a>
 </p>
 
 </td>
@@ -214,7 +211,7 @@ A secure notes application built with the MERN stack and designed for a smooth e
 <a href="https://github.com/TechyCyb3r/iNoteX">
 <img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github"/>
 </a>
-<a href="https://github.com/TechyCyb3r/iNoteX">
+<a href="https://inotex.thehimanshu.tech">
 <img src="https://img.shields.io/badge/Check_Features-EC4899?style=for-the-badge"/>
 </a>
 </p>
@@ -241,7 +238,7 @@ A sleek Netflix-inspired landing page focused on visual polish, responsiveness, 
 <a href="https://github.com/TechyCyb3r/Netflix-Clone">
 <img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github"/>
 </a>
-<a href="https://github.com/TechyCyb3r/Netflix-Clone">
+<a href="https://netflix.thehimanshu.tech">
 <img src="https://img.shields.io/badge/Explore_Design-FF3D71?style=for-the-badge"/>
 </a>
 </p>
@@ -359,8 +356,6 @@ Interests:
 <img src="https://raw.githubusercontent.com/TechyCyb3r/TechyCyb3r/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
-
-> **Note:** You'll need to configure a GitHub Action to generate this animation.
 
 ---
 

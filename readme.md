@@ -1,6 +1,6 @@
 <!-- ===================== PREMIUM INTERACTIVE HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Himanshu%20Agarwal&fontAlign=50&fontAlignY=40&color=0:7c3aed,50:2563eb,100:06b6d4&fontColor=ffffff&fontSize=54&desc=Full Stack Developer%20Developer%20%7C%20React%20%7C%20Next.js&descAlign=50&descAlignY=63&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Himanshu%20Agarwal&fontAlign=50&fontAlignY=40&color=0:7c3aed,50:2563eb,100:06b6d4&fontColor=ffffff&fontSize=54&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20Next.js&descAlign=50&descAlignY=63&animation=fadeIn" />
 </p>
 
 <p align="center">

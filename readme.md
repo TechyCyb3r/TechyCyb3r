@@ -1,58 +1,71 @@
-# 👋 Hi, I’m **Himanshu Agarwal** (aka **techycyb3r**)
+# 👋 Hi, I'm **Himanshu Agarwal** (@techycyb3r)
 
-I’m a Frontend Developer passionate about building **smooth, responsive, and accessible web applications**.  
-I specialise in **React.js**, **JavaScript (ES6+)**, modern CSS, and crafting engaging UIs.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=TechyCyb3r&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
+  <img src="https://img.shields.io/github/followers/TechyCyb3r?label=Followers&style=social" alt="followers" />
+</p>
 
----
+<h3>Frontend Developer | React.js | Next.js | UI/UX Focused</h3>
 
-## 🛠 Technologies & Tools
-
-### Frontend
-- HTML5, CSS3  
-- JavaScript (ES6+)  
-- React.js  
-- Next.js
-- Framer Motion  
-- Responsive & mobile-first layouts  
-- Accessibility best practices (a11y)  
-
-### Tools & Workflows
-- Git & GitHub  
-- VS Code  
-- Figma (for UI mockups)  
-- Browser DevTools & Performance profiling  
-- Agile/ SCRUM mindset  
+### 🚀 About Me
+- 💻 Passionate about building **responsive, accessible, and smooth** web apps  
+- ⚛️ Strong in **React.js**, **JavaScript (ES6+)**, modern CSS  
+- 🎯 Focused on clean UI, performance, and a11y  
+- 🌱 Currently learning: **Advanced Next.js + TypeScript**
 
 ---
 
-## 📂 Selected Projects
+### 🛠 Tech Stack
 
-| Project | Description |
-|--------|-------------|
-| **Portfolio Website** | Built with React + Framer Motion to showcase my skills and work. |
-| **NewsApp** | JavaScript project showcasing API integration and dynamic UI. |
-| **Netflix-Clone** | A HTML/CSS/JS clone to demonstrate UI replication & responsive design. |
-| **iNoteX** | JavaScript based note taking web application. |
-
-(Check my [GitHub repositories](https://github.com/TechyCyb3r?tab=repositories) for details.)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,git,github,vscode,figma" />
+</p>
 
 ---
 
-## 📫 Connect With Me
+### 📌 Featured Projects
 
-- LinkedIn: *https://www.linkedin.com/in/himanshuagarwal04/*  
-- Email: *himanshuagarwalskr@gmail.com*  
-- Portfolio: *https://thehimanshu.tech*
+| Project | Description | Links |
+|---|---|---|
+| **Portfolio Website** | React + Framer Motion based personal portfolio | [Live](https://thehimanshu.tech) • [Code](https://github.com/TechyCyb3r) |
+| **NewsApp** | API integration with dynamic news UI | [Code](https://github.com/TechyCyb3r) |
+| **Netflix-Clone** | UI replication with responsive design | [Code](https://github.com/TechyCyb3r) |
+| **iNoteX** | Notes web app in JavaScript | [Code](https://github.com/TechyCyb3r) |
+
+---
+
+### 📊 GitHub Stats
+
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TechyCyb3r&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechyCyb3r&layout=compact&theme=tokyonight" />
+</p>
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=TechyCyb3r&theme=tokyonight" />
+</p>
 
 ---
 
-## 🔮 Fun Fact
+### 🤝 Connect With Me
 
-When I’m not coding, I enjoy **writing shayari**, exploring UI/UX trends, and bringing static pages to life with smooth animations.  
-(Yes, I believe front-end dev + poetry = creative combo!)
+<p>
+  <a href="https://www.linkedin.com/in/himanshuagarwal04/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:himanshuagarwalskr@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://thehimanshu.tech">
+    <img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 
 ---
+
+### ✨ Fun Fact
+I write **shayari** and build animated UIs — creativity in words + code 💫
 
 > “Write code that you’re proud of. Build interfaces that people enjoy using.”
 
-⭐ Thanks for visiting my profile — let’s build something meaningful together!  
+⭐ Thanks for visiting — let’s build something meaningful!

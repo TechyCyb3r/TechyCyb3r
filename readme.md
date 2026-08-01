@@ -352,15 +352,18 @@ Interests:
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TechyCyb3r/TechyCyb3r/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+
+<img src="https://raw.githubusercontent.com/TechyCyb3r/TechyCyb3r/output/github-contribution-grid-snake-dark.svg"/>
+
 </p>
 
 > **Note:** You'll need to configure a GitHub Action to generate this animation.
 
 ---
+
 
 ## 🤝 Let's Connect
 

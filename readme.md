@@ -102,7 +102,7 @@ const himanshu = {
 - Express.js — ███████████████░░░░░ 80%
 - MongoDB — ████████████████░░░░ 82%
 - REST APIs — █████████████████░░░ 86%
-- Git & GitHub — ███████████████████░ 95%
+- Git & GitHub — █████████████████��█░ 95%
 
 </td>
 </tr>
@@ -112,40 +112,166 @@ const himanshu = {
 
 ## 💎 Featured Projects
 
-### 1) SecureFin
-> Modern finance dashboard focused on premium UI, authentication, responsive layouts, and performance.
+<p align="center">
+  <i>Selected work that reflects my focus on premium design, performance, and user-first development.</i>
+</p>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💰 SecureFin
+<p>
+A modern finance dashboard with a premium UI, authentication flow, responsive layout, and performance-first experience.
+</p>
 
 **Stack:** React • Next.js • Tailwind • Node.js • MongoDB
 
-🔗 Repository: https://github.com/TechyCyb3r/securefin
+**Highlights:**
+- Clean dashboard UX
+- Auth-focused workflows
+- Responsive & scalable UI
+- Production-ready structure
 
-### 2) Stock Screener
-> Powerful stock discovery platform with filtering, searching, and a modern dashboard experience.
+<p>
+<a href="https://github.com/TechyCyb3r/securefin">
+<img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://github.com/TechyCyb3r/securefin">
+<img src="https://img.shields.io/badge/Explore_Code-7C3AED?style=for-the-badge"/>
+</a>
+</p>
 
-**Highlights:** Fast Search • Dynamic Filters • Responsive UI • Performance Optimized
+</td>
+<td width="50%" valign="top">
 
-🔗 Repository: https://github.com/TechyCyb3r/stock-screener
+### 📈 Stock Screener
+<p>
+A stock discovery platform built for fast filtering, searching, and a clean analytics-style experience.
+</p>
 
-### 3) Passport Management System
-> Full stack application for managing passport workflows with clean UX.
+**Stack:** UI-heavy frontend • Search • Filters • Responsive Layout
 
-**Highlights:** Authentication • CRUD • REST APIs • Responsive Interface
+**Highlights:**
+- Fast search experience
+- Dynamic filters
+- Dashboard-like UI
+- Performance-optimized interactions
 
-🔗 Repository: https://github.com/TechyCyb3r/passportMgt
+<p>
+<a href="https://github.com/TechyCyb3r/stock-screener">
+<img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://github.com/TechyCyb3r/stock-screener">
+<img src="https://img.shields.io/badge/See_Live_Style-06B6D4?style=for-the-badge"/>
+</a>
+</p>
 
-### 4) iNoteX
-> Secure notes app built with the MERN stack.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**Highlights:** JWT Auth • Notes CRUD • Responsive Design • Fast UX
+### 🛂 Passport Management System
+<p>
+A full stack workflow application for passport management with clean UX and essential CRUD flows.
+</p>
 
-🔗 Repository: https://github.com/TechyCyb3r/iNoteX
+**Stack:** Authentication • CRUD • REST APIs • Responsive Interface
 
-### 5) Netflix Clone
-> Clean, responsive Netflix-inspired landing page.
+**Highlights:**
+- Secure login experience
+- Efficient data management
+- REST-based architecture
+- Structured UI components
 
-**Highlights:** Responsive Layout • Modern Design • Beautiful UI
+<p>
+<a href="https://github.com/TechyCyb3r/passportMgt">
+<img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://github.com/TechyCyb3r/passportMgt">
+<img src="https://img.shields.io/badge/Read_Implementation-14B8A6?style=for-the-badge"/>
+</a>
+</p>
 
-🔗 Repository: https://github.com/TechyCyb3r/Netflix-Clone
+</td>
+<td width="50%" valign="top">
+
+### 📝 iNoteX
+<p>
+A secure notes application built with the MERN stack and designed for a smooth everyday workflow.
+</p>
+
+**Stack:** MERN • JWT Auth • Notes CRUD • Responsive Design
+
+**Highlights:**
+- Simple and secure note-taking
+- Fast user experience
+- Clean responsive interface
+- Built for consistency
+
+<p>
+<a href="https://github.com/TechyCyb3r/iNoteX">
+<img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://github.com/TechyCyb3r/iNoteX">
+<img src="https://img.shields.io/badge/Check_Features-EC4899?style=for-the-badge"/>
+</a>
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎬 Netflix Clone
+<p>
+A sleek Netflix-inspired landing page focused on visual polish, responsiveness, and modern presentation.
+</p>
+
+**Stack:** Responsive Layout • Modern Design • UI Polish
+
+**Highlights:**
+- Strong visual hierarchy
+- Smooth responsive layout
+- Premium look and feel
+- Great practice project
+
+<p>
+<a href="https://github.com/TechyCyb3r/Netflix-Clone">
+<img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://github.com/TechyCyb3r/Netflix-Clone">
+<img src="https://img.shields.io/badge/Explore_Design-FF3D71?style=for-the-badge"/>
+</a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+### ✨ Want a custom build?
+<p>
+I can turn any idea into a premium full stack experience with a strong UI, clean codebase, and scalable architecture.
+</p>
+
+**Best for:**
+- SaaS landing pages
+- Dashboards
+- Portfolio sites
+- Authentication flows
+
+<p>
+<a href="mailto:himanshuagarwalskr@gmail.com">
+<img src="https://img.shields.io/badge/Start_a_Conversation-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://thehimanshu.tech">
+<img src="https://img.shields.io/badge/Visit_Portfolio-111827?style=for-the-badge"/>
+</a>
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
 

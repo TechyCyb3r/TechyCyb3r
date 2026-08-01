@@ -345,31 +345,12 @@ https://github.com/TechyCyb3r/Netflix-Clone
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TechyCyb3r&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechyCyb3r&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-<p align="center">
-
 <img src="https://streak-stats.demolab.com?user=TechyCyb3r&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=TechyCyb3r&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</p>
-
----
 
 # 📈 Contribution Activity
 
